@@ -206,6 +206,7 @@
 	.content img {
 		background-color: white;
 		border-radius: 120px;
+		width:200px;
 	}
 	.content figcaption {
 		text-align: center;
